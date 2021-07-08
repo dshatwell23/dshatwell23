@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 - 📫 You can reach me by:
-      e-mail:   dshatwell23@gmail.com or
-      LinkedIn: ``https://www.linkedin.com/in/david-shatwell``
+      e-mail:   dshatwell23@gmail.com
+      LinkedIn: https://www.linkedin.com/in/david-shatwell
 
 <!---
 dshatwell23/dshatwell23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
