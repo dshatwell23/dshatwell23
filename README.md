@@ -1,6 +1,6 @@
-- 👋 Hi, I’m David Shatwell
+<!-- - 👋 Hi, I’m David Shatwell
 - 👀 I’m interested in Computer Vision and Machine Learning
-- 📫 You can reach me by sending me an e-mail (dshatwell23@gmail.com) or a message on LinkedIn (https://www.linkedin.com/in/david-shatwell/?locale=en_US)
+- 📫 You can reach me by sending me an e-mail (dshatwell23@gmail.com) or a message on LinkedIn (https://www.linkedin.com/in/david-shatwell/?locale=en_US) -->
 
 <!---
 - 💞️ I’m looking to collaborate on ...
