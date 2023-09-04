@@ -1,4 +1,4 @@
-I'm PhD student working at UCF's Center for Research in Computer Vision (CRCV) with Dr. Mubarak Shah. Please feel free to contact me through email (da625117[at]ucf[dot]edu) or LinkedIn (https://www.linkedin.com/in/david-shatwell/?locale=en_US). To view my (outdated) portfolio, visit my website at davidshatwell.com.
+I'm PhD student working at UCF's Center for Research in Computer Vision (CRCV) with Dr. Mubarak Shah. Please feel free to contact me through email (da625117[at]ucf[dot]edu) or LinkedIn (www.linkedin.com/in/david-shatwell). To view my (outdated) portfolio, visit my website at davidshatwell.com.
 
 <!-- - 👋 Hi, I’m David Shatwell
 - 👀 I’m interested in Computer Vision and Machine Learning
